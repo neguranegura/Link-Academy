@@ -6,3 +6,7 @@ body {
 h2 {
   color: green;
 }
+h3, h1 {
+  font-family: serif;
+  color: green;
+}
