@@ -14,4 +14,17 @@
   echo 'LINIE CURENTA: '.__LINE__.PHP_EOL;
   echo 'FISIERUL CURENT: '.__FILE__.PHP_EOL;
   echo 'DIRECTORUL CURENT: '.__DIR__.PHP_EOL;
+
+
+  $b = 3;
+  $b = $b + 3;
+  echo $b.PHP_EOL;
+
+
+  $c = 5;
+  print ($c).PHP_EOL;
+
+  unset ($a);
+  echo $a.PHP_EOL;
+
 ?>
